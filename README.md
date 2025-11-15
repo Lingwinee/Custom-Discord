@@ -6,7 +6,6 @@ Custom discord the ability to edit discord to your preferences(basically)
 <h2> Very Simple and Editable </h2>
 </center>
 
-![image](https://user-images.githubusercontent.com/107376979/173761755-25c07487-ee73-4ec0-854c-fa5aa8e09a9e.png)
 
 ![image](https://user-images.githubusercontent.com/107376979/173984759-ca985e8c-4628-455f-84cb-dafeba741e86.png)
 
